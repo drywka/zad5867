@@ -1,0 +1,41 @@
+p#p1_dry
+ {
+ color: purple;
+ font-size:20pt;
+ }
+ p#p2_dry
+ {
+ color: purple;
+ font-size:18pt;
+ }
+p#p1_dry:first-letter
+{
+color: orange;
+font-size: 114pt;
+}
+p#p2_dry:first-letter
+{
+  color: yellow;  
+  font-size: 114pt;
+}
+h1#h1_dry{
+color: blue;
+
+}
+h1#h1_dry:first-letter{
+    color: grey;
+}
+
+p#p3_dry{
+    color: blue;
+    font-size:10pt;
+    }
+
+p#p3_dry:first-letter{
+    font-size: 25pt;
+}
+p#p3_dry:first-line{
+    color: turquoise;
+    }
+    /*Jakub Drywa*/
+    
